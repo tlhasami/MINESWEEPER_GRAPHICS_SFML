@@ -3,8 +3,6 @@ Here is an updated README file template with emojis for your SFML graphics-based
 
 # 🎮 Minesweeper Graphics using SFML
 
-![Minesweeper](path/to/your/screenshot.png)
-
 ## 📋 Table of Contents
 - [About the Project](#about-the-project)
 - [Built With](#built-with)
